@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hidden files and folders
+.DS_Store
+.env
+.venv
+*.env
+*.venv
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+*.egg-info/
+myenv/
+
+# Jupyter Notebook saved outputs (optional)
+*.nbconvert.ipynb
+
+# VSCode settings
+.vscode/
+
+# Model files (scvi-tools, PyTorch, sklearn)
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.pkl
+*.joblib
+
+# TensorFlow related (if mixed use or transferred models)
+*.h5
+*.tflite
+*.pb
+*.onnx
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.parquet
+*.zip
+*.tar.gz
+*.h5ad
+*.loom
+*.log
+
+# Outputs
+*.out
+*.tmp
+*.log
+*.bak
+
+# TensorFlow Models or similar cloned code
+tfm/
+
