@@ -10,7 +10,7 @@ This repository contains the source code and notebooks for a Master's Final Proj
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.12+
 - Jupyter Notebook
 - Required libraries are listed in `requirements.txt`
 
